@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/me/AndroidStudioProjects/GoodWords/app/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="..\:/Users/me/AndroidStudioProjects/GoodWords/app/src/main/res/layout/activity_sentence.xml" value="0.1" />
+        <entry key="..\:/Users/me/AndroidStudioProjects/GoodWords/app/src/main/res/layout/listview_item.xml" value="0.171875" />
       </map>
     </option>
   </component>
